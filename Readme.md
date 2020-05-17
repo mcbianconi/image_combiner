@@ -20,6 +20,3 @@ Here are some examples
 python image_combiner.py --help # should display all avaliable options
 python image_combiner.py -f1 /tmp/right -f2 /tmp/left -o ./out -v
 ```
-
-## Contributing
-Send a mail to [me](mailto:murillo.bianconi@gmail.com) and we cant talk.
